@@ -198,3 +198,5 @@ Use the button in the Quick Start section.
 ---
 
 *Umamusume: Pretty Derby · Updated 2026-11-15 · Shared under the MIT License*
+
+<!-- rev 2026-11-15 -->
