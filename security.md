@@ -197,4 +197,4 @@ Use the button in the Quick Start section.
 
 ---
 
-*Umamusume: Pretty Derby · Updated 2026-11-22 · Shared under the MIT License*
+*Umamusume: Pretty Derby · Updated 2026-11-23 · Shared under the MIT License*
